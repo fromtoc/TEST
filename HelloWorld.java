@@ -8,7 +8,6 @@ public class HelloWorld extends HttpServlet {
 	
 	int gg = asdasds;
 	int count = 100;
-	int gg = 0;
 
 	public void doGet(HttpServletRequest req, HttpServletResponse res)
 			                         throws ServletException, IOException {
