@@ -6,7 +6,7 @@ import javax.servlet.http.*;
 
 public class HelloWorld extends HttpServlet {
 	
-	int count = 2;
+	int count = 100;
 
 	public void doGet(HttpServletRequest req, HttpServletResponse res)
 			                         throws ServletException, IOException {
