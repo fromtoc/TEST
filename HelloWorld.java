@@ -6,7 +6,7 @@ import javax.servlet.http.*;
 
 public class HelloWorld extends HttpServlet {
 	
-	int gg = 46465;
+	int gg = asdasds;
 	int count = 100;
 	int gg = 0;
 
